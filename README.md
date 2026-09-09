@@ -8,6 +8,11 @@ Code accompanying the paper:
 CALM builds upon, and borrows code from, Adversarial Skill Embeddings ([Peng et. al., 2022, ASE](https://github.com/nv-tlabs/ASE)).
 
 
+### Documentation & Humanoid Control Guides
+- **Paragraph-by-Paragraph Technical Analysis & Unitree G1 Blueprint:** [`CALM_Explained_Para_by_Para.md`](CALM_Explained_Para_by_Para.md)
+- **Paper Reading Session & Codebase Synthesis:** [`docs/conversations/0085dc56-eaa1-4b47-8e89-0d32fd9eedd0.md`](docs/conversations/0085dc56-eaa1-4b47-8e89-0d32fd9eedd0.md)
+
+
 ### Installation
 
 Download Isaac Gym from the [website](https://developer.nvidia.com/isaac-gym), then
